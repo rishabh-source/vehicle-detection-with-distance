@@ -17,6 +17,9 @@ video also can be changed according to your preference in script.py.
 
 ex: video='video/clear_road.mp4'
 
+![Screenshot 2023-09-10 112400](https://github.com/rishabh-source/vehicle-detection-with-distance/assets/70832073/a22e884e-6bf0-43b5-8ff5-b9ea010a0708)
+
+
 Requirements:
 
 python 3.8 above,
