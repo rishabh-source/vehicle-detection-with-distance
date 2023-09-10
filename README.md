@@ -10,7 +10,7 @@ so you can detect other things by changing name of classifier in script.py.
 ex: haar_cascade = 'haarcascades/haarcascade_car.xml'
 go through haarcascades folder to choose classifier.
 
-video also can be changed according to your preference in script.py.
+video also can be changed according to your preference in script.py.\n
 ex: video='video/clear_road.mp4'
 
 Requirements:
