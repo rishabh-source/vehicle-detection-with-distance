@@ -7,12 +7,16 @@ here ,harrcascades having many classifiers like:
 eye , tree ,body ,frontal face , vehicles etc.
 
 so you can detect other things by changing name of classifier in script.py.
+
 ex: haar_cascade = 'haarcascades/haarcascade_car.xml'
 go through haarcascades folder to choose classifier.
 
-video also can be changed according to your preference in script.py.\n
+video also can be changed according to your preference in script.py.
+
 ex: video='video/clear_road.mp4'
 
 Requirements:
+
 python 3.8 above,
+
 opencv-python ,numpy (install using pip install command)
